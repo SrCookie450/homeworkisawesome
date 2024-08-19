@@ -1,8 +1,8 @@
 
-# Resent Client 4.4
+# Homework!
 
 
-**Resent Client** is the best PVP client for EaglerCraft with a huge number of mods.
+**Resent Client** is the best PVP client for [REDACTED] with a huge number of mods.
 ## Screenshots
 ### *Main menu*
 [![N|Solid](https://gachi.gay/g_fhH)](https://resentcli.vercel.app/)
